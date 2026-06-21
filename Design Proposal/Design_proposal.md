@@ -112,7 +112,7 @@ Dynamic array is a contingous block of memory which grows by specific capacity w
 
  **Linked List**
  It stores the elements inside the individual nodes which is allocated dynamically. Nodes are connected using the pointers which allows the list to grow without requiring a contigous memory.
- ![Second Image](LinkedList.jpeg)
+ ![Second Image](Linkedlist.jpeg)
  
  insertions and deletion operations are straight forward because the existing elements do not need to be shifted.
 
